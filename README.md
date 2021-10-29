@@ -1,7 +1,8 @@
 # LGMVIP-DataScience
 ## Tasks submission
-By Harshita Rathee
-Data Science Intern
+**By : Harshita Rathee**
+
+**- Data Science Intern**
 
 1. Beginner level task --> Image to Pencil Sketch with Python
 
